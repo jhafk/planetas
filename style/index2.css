@@ -1,0 +1,81 @@
+body{
+    height: 600px;
+    background-color: rgb(58, 222, 222);
+    background-image: url("https://estaticos.muyinteresante.es/uploads/images/article/6240a10d5bafe8ad9e5c2b1b/meteoritos-.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+}
+
+header{
+    background-color: rgb(42, 85, 205);
+    text-align: center;
+    color: antiquewhite;
+}
+
+h1{
+    color: rgb(233, 108, 146);
+}
+
+h3{
+    color: plum;
+}
+
+
+h2{
+    color: deepskyblue;
+    text-decoration: underline;
+
+}
+
+
+p{
+    color: rgb(61, 210, 247);
+    font-size: 16px;
+    text-transform: initial;
+    letter-spacing: 2px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    width: 25%;
+}
+
+a{
+    color: khaki;
+}
+
+.logo{
+    display: flex;
+}
+
+.logo img{
+    height: 50%;
+    width: 50px;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    font-size: 18px;
+    color: aquamarine;
+    max-width: 1000px;
+    min-height: 130px;
+    background: 000;
+    margin: 0 auto;
+    border-radius: 0 0 20px 20px
+    
+}
+
+.pie-pagina{
+    width: 100%;
+    background-color: darkgray;
+}
+
+.pie-pagina .alumno-3{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
